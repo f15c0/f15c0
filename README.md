@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dennis Fisco</h1>
-<h3 align="center">A passionate frontend developer for now.. Stay tune</h3>
+<h3 align="center">A passionate fullStack Developer.. Stay tune</h3>
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **Aliens**
 
 - 📫 How to reach me **dennisagbokpe@gmail.com**
 
